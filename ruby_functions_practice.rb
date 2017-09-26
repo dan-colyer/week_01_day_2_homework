@@ -56,3 +56,7 @@ end
 def volume(x)
   return x**3
 end
+
+def sphere_volume(r)
+
+end
