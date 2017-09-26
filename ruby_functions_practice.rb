@@ -41,3 +41,7 @@ def number_to_full_month_name(x)
   end
 
 end
+
+def number_to_short_month_name(x)
+
+end
