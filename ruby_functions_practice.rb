@@ -23,5 +23,5 @@ def length_of_string(input_string)
 end
 
 def join_string(string_1, string_2)
-
+  string_1+string_2
 end
