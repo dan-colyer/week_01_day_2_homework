@@ -18,6 +18,7 @@ def divide(a, b)
   return a/b
 end
 
-def length_of_string(x)
+def length_of_string(input_string)
+  return input_string.length
 
 end
