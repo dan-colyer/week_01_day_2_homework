@@ -54,5 +54,5 @@ def number_to_short_month_name(x)
 end
 
 def volume(x,y,z)
-
+  return x * y * z
 end
