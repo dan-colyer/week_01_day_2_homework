@@ -58,5 +58,5 @@ def volume(x)
 end
 
 def sphere_volume(r)
-
+  return ((4.0/3.0) *  Math::PI  * (r ** 3.0)).round(2)
 end
